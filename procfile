@@ -1,0 +1,1 @@
+web gunicorn BUDGET-TRACKER-PROJECT.wsgi:application --log-file -
